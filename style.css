@@ -1,3 +1,16 @@
-body {
+h1 {
+  color: darkblue;
+  text-decoration-line: overline;
+text-shadow: 1px 2px white;
 
+}
+
+body{
+  background-color:tan
+    }
+    img:hover {
+      width:400px
+  }
+h1:hover {
+  font-size: 300%;
 }
